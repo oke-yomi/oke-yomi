@@ -1,10 +1,6 @@
 
 ## 👋 Hi, I’m Favour  
 
-I’m a **Frontend & Mobile Engineer** with 5+ years of experience building high-performance web and mobile apps across fintech, healthtech, and SaaS. I specialize in **React, React Native, Next.js, and TypeScript**, with a proven track record of delivering **40% faster feature rollouts**, **35%+ user engagement growth**, and scalable architectures.  
-
-Currently, I’m transitioning into **AI-driven applications**, combining my engineering background with a growing focus on **AI/ML in healthcare and fintech**.  
-
 ✨ A **Frontend & Mobile Engineer** with 5+ years of experience building sleek, high-performance apps.  
 💻 I craft web and mobile experiences using **React, React Native, Next.js, and TypeScript**.  
 🚀 I’ve shipped products in **fintech, healthtech, and SaaS** that boosted engagement by **35%** and sped up delivery by **40%**.  
