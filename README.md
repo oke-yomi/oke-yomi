@@ -78,7 +78,7 @@ Healthcare management platform with real-time scheduling.
 
 ---
 
-⭐️ Always excited to collaborate on **frontend engineering**, **AI-driven products**, and **healthtech/fintech innovation**.  
+⭐️ Always excited to collaborate on **frontend engineering**, **AI-driven products**, and **software/tech innovation**.  
 
 
 <!--
