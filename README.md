@@ -5,25 +5,25 @@
 💻 I craft web and mobile experiences using **React, React Native, Next.js, and TypeScript**.  
 🚀 I’ve shipped products in **fintech, healthtech, and SaaS** that boosted engagement by **35%** and sped up delivery by **40%**.  
 
----
+
 
 ## 🌱 What I’m Currently Doing  
 - Working as a **Frontend Engineer at Aella Financial Solutions (Fintech)**, improving user experience and mentoring engineers.  
 - Diving deeper into **AI & Data Engineering** — exploring Python, TensorFlow, and real-world ML applications.  
 - Growing my French skills 🇫🇷 (currently A1.2 — slowly getting there 💪).  
 
----
+
 
 ## 🎯 Future Plans  
 - Expanding into **AI-powered software engineering** — applying my frontend and systems expertise to build smarter, data-driven products.  
 - Applying AI to **healthcare and fintech**, helping teams solve real-world problems at scale.  
-- Contributing more to **open-source projects** and sharing my journey.  
+- Contributing more to **open-source projects** and sharing my journey.  <br/>
 
----
+
 
 ⚡ Fun fact: I’m fluent in **English (C2)**, conversational in **Yoruba (B2)**, and learning **French** — because coding isn’t the only language I love! 😉  
 
----
+
 
 ## 🚀 Featured Projects  
 
@@ -57,7 +57,7 @@ Healthcare management platform with real-time scheduling.
 - ✅ Built scheduling system for professionals & clients  
 - ✅ Streamlined healthcare operations via scalable architecture  
 
----
+
 
 ## 🛠️ Skills  
 
