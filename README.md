@@ -43,14 +43,6 @@ AI-ready salesforce & medical detailing automation system.
 
 ---
 
-### [Elevate Apps](https://www.elevateapps.co/)  
-Innovation-focused product & engineering agency.  
-**Stack:** Next.js, TypeScript  
-- ✅ Delivered high-impact client products in fintech & healthcare  
-- ✅ Championed frontend architecture & CI/CD best practices  
-
----
-
 ### [Locum Professionals](https://locum-professionals-firebase.web.app)  
 Healthcare management platform with real-time scheduling.  
 **Stack:** React Native (Expo), React.js, Node.js (GraphQL)  
