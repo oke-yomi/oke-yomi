@@ -1,21 +1,21 @@
 
 ## 👋 Hi, I’m Favour  
 
-✨ A **Frontend & Mobile Engineer** with 5+ years of experience building sleek, high-performance apps.  
-💻 I craft web and mobile experiences using **React, React Native, Next.js, and TypeScript**.  
+✨ A **Software & Mobile Engineer** with 5+ years of experience building sleek, high-performance apps.  
+💻 I craft web and mobile experiences using **React, React Native, Next.js, Node.js, TypeScript, Python and Java**.  
 🚀 I’ve shipped products in **fintech, healthtech, and SaaS** that boosted engagement by **35%** and sped up delivery by **40%**.  
 
 
 
 ## 🌱 What I’m Currently Doing  
-- Working as a **Frontend Engineer at Aella Financial Solutions (Fintech)**, improving user experience and mentoring engineers.  
-- Diving deeper into **AI & Data Engineering** — exploring Python, TensorFlow, and real-world ML applications.  
-- Growing my French skills 🇫🇷 (currently A1.2 — slowly getting there 💪).  
+- Working as a **Senior Software Engineer at Aella Financial Solutions (Fintech)**, improving user experience and mentoring engineers.  
+- Diving deeper into **AI & Data Engineering** — exploring LLMs, and real-world ML applications.  
+- Growing my French skills 🇫🇷 (currently A2 — slowly getting there 💪).  
 
 
 
 ## 🎯 Future Plans  
-- Expanding into **AI-powered software engineering** — applying my frontend and systems expertise to build smarter, data-driven products.  
+- Expanding into **AI-powered software engineering** — applying my software and systems expertise to build smarter, data-driven products.  
 - Applying AI to **healthcare and fintech**, helping teams solve real-world problems at scale.  
 - Contributing more to **open-source projects** and sharing my journey.  <br/>
 
@@ -62,11 +62,9 @@ Healthcare management platform with real-time scheduling.
 ## 🛠️ Skills  
 
 **Frontend & Mobile:** React, React Native, Next.js, Expo, Zustand, Redux  
-**Backend & APIs:** Node.js, Express, GraphQL, REST APIs  
-**Tooling & CI/CD:** Docker, GitHub Actions, Turborepo, Webpack, Babel  
-**Testing:** Jest, React Testing Library  
-**Styling:** Tailwind CSS, SASS, Material UI, Styled Components  
-**AI Transition:** Python (learning), TensorFlow/PyTorch (exploring), Data Engineering foundations  
+**Backend & APIs:** Node.js, Express, GraphQL, REST APIs, Python, Java  
+**Tooling & CI/CD:** Docker, GitHub Actions, Turborepo, Webpack, Babel   
+**AI Transition:** Data Engineering foundations  
 
 ---
 
